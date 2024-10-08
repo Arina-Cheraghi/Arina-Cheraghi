@@ -21,10 +21,10 @@
 
 ## 📞 Contact with Me
 
-- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white) [Arina.Chr81@gmail.com](Arina.Chr81@gmail.com)
+- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)(Arina.Chr81@gmail.com)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [](https://www.linkedin.com/in/)
 - ![Phone](https://img.shields.io/badge/Phone-000000?style=flat-square&logo=phone&logoColor=white) 09016519188
-- ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white) [@Arinaachr](https://t.me/Arinaachr)
+- ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)(https://t.me/Arinaachr)
 
 
 
