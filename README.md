@@ -1,8 +1,10 @@
-💻 Junior Front end Developer
-🎓 software engineering student
-📚 React Developer
-💞️ Front-end projects and React applications
-📫 Email: Arina.chr81@gmail.com
+Hi There! I'm Arina
+
+- 💻 Junior Front end Developer
+- 🎓 Software engineering student
+- 📚 React Developer
+- 💞️ Front-end projects and React applications
+- 📫 Email: Arina.chr81@gmail.com
 
 
 
