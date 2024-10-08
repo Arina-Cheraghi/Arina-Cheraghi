@@ -4,9 +4,7 @@
 - 🎓 Software engineering student
 - 📚 React Developer
 - 💞️ Front-end projects and React applications
-- 📫 Email: Arina.chr81@gmail.com
 
-## Tech Stack
 ## Tech Stack
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -20,6 +18,10 @@
  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📞 Contact with Me
+- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
+: Arina.chr81@gmail.com
 
 
 <!---
