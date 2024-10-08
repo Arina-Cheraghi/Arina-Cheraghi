@@ -1,11 +1,11 @@
-## Hi There! I'm Arina
+## 👋 Hi There! I'm Arina
 
 - 💻 Junior Front end Developer
 - 🎓 Software engineering student
 - 📚 React Developer
 - 💞️ Front-end projects and React applications
 
-## Tech Stack
+## 💻 Tech Stack
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -20,7 +20,11 @@
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📞 Contact with Me
-- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white) [Arina.chr81@gmail.com](mailto:Arina.chr81@gmail.com)
+
+- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white) [Arina.Chr81@gmail.com](Arina.Chr81@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [](https://www.linkedin.com/in/)
+- ![Phone](https://img.shields.io/badge/Phone-000000?style=flat-square&logo=phone&logoColor=white) 09016519188
+- ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white) [@Arinaachr](https://t.me/Arinaachr)
 
 
 
