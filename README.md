@@ -20,8 +20,8 @@
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📞 Contact with Me
-- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
-: Arina.chr81@gmail.com
+- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white) [Arina.chr81@gmail.com](mailto:Arina.chr81@gmail.com)
+
 
 
 <!---
