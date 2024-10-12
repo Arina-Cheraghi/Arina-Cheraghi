@@ -21,19 +21,19 @@
 
 ## 📞 Contact with Me
 <p align="left">
-  <img src="https://img.shields.io/badge/Gmail-Arina.Chr81@gmail.com-red?style=flat&logo=gmail" height="30px">
-
+  - <img src="https://img.shields.io/badge/Gmail-Arina.Chr81@gmail.com-white?style=flat&logo=gmail&color=white" height="30px">
  
-  <a href="https://t.me/ArinaCheraghi/">
-    <img src="https://img.shields.io/badge/Telegrem-@ArinaCheraghi-blueviolet?style=flat&logo=telegram" height="30px">
+  - <a href="https://t.me/ArinaCheraghi/">
+    <img src="https://img.shields.io/badge/Telegram-@ArinaCheraghi-white?style=flat&logo=telegram&color=white" height="30px">
   </a>
-  <a href="https://www.linkedin.com/in/arinacheraghi/">
-    <img src="https://img.shields.io/badge/LinkedIn-arinacheraghi-white?style=flat&logo=linkedin" height="30px">
+  - <a href="https://www.linkedin.com/in/arinacheraghi/">
+    <img src="https://img.shields.io/badge/LinkedIn-arinacheraghi-white?style=flat&logo=linkedin&color=white" height="30px">
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Phone-09381524644-white?style=flat&logo=Phone" height="30px">
+  - <a>
+    <img src="https://img.shields.io/badge/Phone-09381524644-white?style=flat&logo=Phone&color=white" height="30px">
   </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arina-cheraghi&show_icons=true&locale=en&layout=compact&bg_color=F7EFE5" alt="arina-cheraghi" /></p>
