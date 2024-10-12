@@ -20,12 +20,20 @@
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📞 Contact with Me
+<p align="left">
+  <img src="https://img.shields.io/badge/Gmail-Arina.Chr81@gmail.com-red?style=flat&logo=gmail" height="30px">
 
-- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white) [Arina.Chr81@gmail.com](Arina.Chr81@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [](www.linkedin.com/in/arinacheraghi)
-- ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white) [@Arinaachr](https://t.me/Arinaachr)
-
-
+ 
+  <a href="https://t.me/ArinaCheraghi/">
+    <img src="https://img.shields.io/badge/Telegrem-@ArinaCheraghi-blueviolet?style=flat&logo=telegram" height="30px">
+  </a>
+  <a href="https://www.linkedin.com/in/arinacheraghi/">
+    <img src="https://img.shields.io/badge/LinkedIn-arinacheraghi-white?style=flat&logo=linkedin" height="30px">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Phone-09381524644-white?style=flat&logo=Phone" height="30px">
+  </a>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arina-cheraghi&show_icons=true&locale=en&layout=compact&bg_color=F7EFE5" alt="arina-cheraghi" /></p>
