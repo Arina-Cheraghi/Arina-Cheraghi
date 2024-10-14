@@ -34,9 +34,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arina-cheraghi&show_icons=true&locale=en&layout=compact&bg_color=F7EFE5" alt="arina-cheraghi" /></p>
-
-
 
 <!---
 Arina-Cheraghi/Arina-Cheraghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
